@@ -2,9 +2,9 @@
 Projeto de estudo de orientação a objetos em Java que simula operaçoes de um banco digital.
 
 ### Exemplo da interface
-===============================================  
-=== Bem Vindo ao Sistema de Bancos Digitais ===  
-===============================================  
+
+Bem Vindo ao Sistema de Bancos Digitais    
+
 O que você gostaria de fazer agora?  
 0 - Sair  
 1 - Cadastrar cliente  
